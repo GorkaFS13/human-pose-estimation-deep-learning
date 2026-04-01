@@ -1,4 +1,4 @@
-path: C:\Users\Gorka\Desktop\IA\APUNTES\3IA\AARN\PoseEstimation\scripts\dataset2
+path: data/
 train: images/train
 val: images/val
 test: images/test
