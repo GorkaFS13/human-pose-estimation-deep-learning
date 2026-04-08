@@ -32,6 +32,13 @@ MANIFEST
 *.pth
 *.ckpt
 
+# Dataset pesado
+data_raw/
+
+# Python
+__pycache__/
+*.pyc
+
 # Large files
 weights/
 models_weights/
