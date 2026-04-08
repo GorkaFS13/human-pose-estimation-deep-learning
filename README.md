@@ -143,6 +143,7 @@ Model weights are not included due to size limitations.
 Detailed report available in:
 report/pose_estimation_report.pdf
 
+
 🧠 Key Takeaways
 Regression-based CNNs outperform heatmap-based methods in low-resolution setups
 Transformers capture global context but require higher resolution for precision
