@@ -1,5 +1,5 @@
 # Human Pose Estimation with Deep Learning
-
+![Pose Estimation Results](results/cnn_vs_transformer/cnn_predictions/cnn_prediction3.png)
 Comparative study of deep learning architectures (CNN vs Transformer) for human pose estimation using the MPII dataset.
 
 ---
