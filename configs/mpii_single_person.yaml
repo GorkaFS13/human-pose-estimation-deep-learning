@@ -1,0 +1,9 @@
+path: C:\Users\Gorka\Desktop\IA\APUNTES\3IA\AARN\PoseEstimation\scripts\dataset2
+train: images/train
+val: images/val
+test: images/test
+nc: 3
+names:
+  0: head
+  1: wrist_right
+  2: wrist_left
